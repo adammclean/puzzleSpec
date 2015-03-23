@@ -27,3 +27,4 @@ The first time you run the tests, it will tell you that you have 11 examples and
 - Your partner
 - [The Ruby Documentation](http://ruby-doc.org/)
 - IRB or Pry (your Ruby console will probably be a very helpful tool as your work to solve these challenges)
+# puzzleSpec
